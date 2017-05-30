@@ -1,0 +1,9 @@
+---
+slug: :load_more
+depends:
+  mikutter: 3.5
+  plugin: []
+version: '1.0'
+author: hiroi01
+name: 'load more'
+description: 'can load more tweets'
